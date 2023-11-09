@@ -66,8 +66,8 @@ D7 = X Y Z
 ### PROGRAM 
 ```
 Program for encoder and decoder and verify its truth table in quartus using Verilog programming.
-Developed by: Aakashraj M
-RegisterNumber: 212222100002
+Developed by: MITHUN MS
+RegisterNumber: 212222240067
 ```
 
 ## Program for Encoder
